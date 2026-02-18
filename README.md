@@ -2,7 +2,7 @@
 
 **`Segurança Da Informação`**
 
-Me chamo Jhonatan Santos, tenho 25 anos e sou natural de São Paulo. Concluí o Tecnólogo de Analise de Desenvolvimento de Sistemas. Atualmente, estou cursando Tecnólogo Segurança da Informação na Fatec. Estou iniciando minha trajetória em cibersegurança, com interesse em aprender sobre pentest, segurança de redes e proteção de aplicações. 
+Me chamo Jhonatan Santos, tenho 25 anos e sou natural de São Paulo. Concluí o Tecnólogo de Analise de Desenvolvimento de Sistemas. Atualmente, estou cursando Tecnólogo em Segurança da Informação na Fatec. Estou iniciando minha trajetória em cibersegurança, com interesse em aprender sobre pentest, segurança de redes e proteção de aplicações. 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
